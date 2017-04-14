@@ -12,16 +12,16 @@ type HomeController() =
 
     [<HttpGet>]
     member this.Get() =
-        ["value1";"value2"]
+        ["( ͡° ͜ʖ ͡°)";"(╭☞⌐■v■)╭☞"]
 
     [<HttpPost>]
     member this.Post([<FromBody>] value: string) =
-        this.Ok ""
+        this.Ok "(⌐■_■)"
 
     [<HttpPut("{id}")>]
     member this.Put(id: int, [<FromBody>] value: string) =
-        this.Ok ""
+        this.Ok "( ͡° ͜つ ͡°)"
     
     [<HttpDelete("id")>]
     member this.Delete(id: int) =
-        this.Ok ""
+        this.Ok "ಠ_ಠ"
