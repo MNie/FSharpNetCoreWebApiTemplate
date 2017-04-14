@@ -5,8 +5,8 @@ How to use it?
 
 How to install it as a template?
 * download repository
-* run command *dotnet new -i <PATH>*, where *PATH* is a path to a folder where project is located
-* create new project executing *dotnet new webapi -lang F# -n <PROJECT NAME> -o <FOLDER NAME>
+* run command *dotnet new -i PATH*, where *PATH* is a path to a folder where project is located
+* create new project executing *dotnet new webapi -lang F# -n PROJECT_NAME -o FOLDER_NAME
 * dotnet restore
 * dotnet run
 
