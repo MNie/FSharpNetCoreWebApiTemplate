@@ -1,12 +1,11 @@
 {
     "author": "Michał Niegrzybowski",
-    "classifications": [ "Web" ],
+    "classifications": [ "Web", "WebAPI" ],
     "name": "F# ASP.NET Core Web Api",
     "identity": "WebApi.FSharp",        
     "shortName": "webapi",              
     "tags": {
         "language": "F#"                
     },
-    "sourceName": "WebApi.FSharp",
-    "preferNameDirectory" : "true"
+    "sourceName": "WebApiFsharp"
 }

@@ -1,4 +1,4 @@
-namespace WebApi.FSharp
+namespace WebApiFsharp
 
 open System
 open System.Collections.Generic
