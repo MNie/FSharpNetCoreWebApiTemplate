@@ -17,4 +17,7 @@ How to use it?
 * `dotnet restore`
 * `dotnet run`
 
+# How it works?
+![Works like this](http://i.imgur.com/NoMYhLh.gif)
+
 If you want to extend this template, or create more complex one based on this, don't hold back :)
