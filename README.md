@@ -1,3 +1,5 @@
+[![NuGet Badge](https://buildstats.info/nuget/WebAPI.FSharp.Template)](https://www.nuget.org/packages/WebAPI.FSharp.Template)
+
 # F# ASP.NET Core Web Api Template
 How to use it?
 * fork and download repository
