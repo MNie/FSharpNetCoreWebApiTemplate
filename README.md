@@ -1,7 +1,8 @@
 [![NuGet Badge](https://buildstats.info/nuget/WebAPI.FSharp.Template)](https://www.nuget.org/packages/WebAPI.FSharp.Template)
+[![Build Status](https://travis-ci.org/MNie/FSharpNetCoreWebApiTemplate.svg?branch=master)](https://travis-ci.org/MNie/FSharpNetCoreWebApiTemplate)
 
 # F# ASP.NET Core Web Api Template
-How to use it?
+# How to use it?
 * fork and download repository
 * install template as a .net core template from nuget
 * install template as a .net core template locally
