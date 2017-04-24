@@ -16,7 +16,7 @@
 * run command `dotnet new -i PATH*`, where *PATH* is a path to a folder where project is located
 * create new project executing `dotnet new webapi -lang F# -n PROJECT_NAME -o FOLDER_NAME`
 * `dotnet restore`
-* `dotnet run`
+* `dotnet run` or `dotnet watch run`
 
 # How it works?
 ![Works like this](http://i.imgur.com/NoMYhLh.gif)
