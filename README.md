@@ -20,8 +20,8 @@
 
 # How it works?
 * `dotnet run`
-![dotnet run](http://i.imgur.com/NoMYhLh.gif)
+![dotnet run](https://raw.githubusercontent.com/MNie/FSharpNetCoreWebApiTemplate/master/images/webapi.gif)
 * `dotnet watch run`
-![dotnet watch run](http://i.imgur.com/TyOM0WR.gif)
+![dotnet watch run](https://raw.githubusercontent.com/MNie/FSharpNetCoreWebApiTemplate/master/images/webapifsharpwatch.gif)
 
 If you want to extend this template, or create more complex one based on this, don't hold back :)
