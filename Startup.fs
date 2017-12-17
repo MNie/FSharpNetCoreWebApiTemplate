@@ -23,11 +23,11 @@ type Startup private() =
             ConfigurationBuilder()
                 .SetBasePath(env.ContentRootPath)
                 .AddJsonFile("appsettings.json", optional = false, reloadOnChange = true)
-                .AddJsonFile(sprintf "appsettings%s.json" env.EnvironmentName, optional = true)
+                .AddJsonFile(sprintf "appsettings.%s.json" env.EnvironmentName, optional = true)
                 .AddEnvironmentVariables()
         this.Configuration <- builder.Build()
 
-        // This method gets called by the runtime. Use this method to add services to the container.
+    // This method gets called by the runtime. Use this method to add services to the container.
     member this.ConfigureServices(services: IServiceCollection) =
         services.AddMvc() |> ignore
 
