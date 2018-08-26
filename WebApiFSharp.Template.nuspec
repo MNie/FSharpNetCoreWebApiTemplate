@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>WebAPI.FSharp.Template</id>
-    <version>2.1.0</version>
+    <version>3.0.0</version>
     <authors>Michał Niegrzybowski</authors>
     <owners>Michał Niegrzybowski</owners>
     <licenseUrl>https://github.com/MNie/FSharpNetCoreWebApiTemplate/blob/master/LICENSE</licenseUrl>
@@ -15,10 +15,10 @@
       <packageType name="Template"/>
     </packageTypes>
 	<dependencies>
-		<dependency id="Microsoft.AspNetCore.All" version="[2.0.0, 2.1.0)"/>
-		<dependency id="Microsoft.Extensions.Logging.Debug" version="[2.0.0, 2.1.0)"/>
-		<dependency id="Microsoft.DotNet.Watcher.Tools" version="[2.0.0, 2.1.0)"/>
-		<dependency id="FSharp.Core" version="[4.1.0, 4.2.0)"/>
+		<dependency id="Microsoft.AspNetCore.All" version="[2.1.0, 2.2.0)"/>
+		<dependency id="Microsoft.Extensions.Logging.Debug" version="[2.1.0, 2.2.0)"/>
+		<dependency id="Microsoft.DotNet.Watcher.Tools" version="[2.1.0, 2.2.0)"/>
+		<dependency id="FSharp.Core" version="[4.5.0, 4.6.0)"/>
 	</dependencies>
   </metadata>
 </package>
