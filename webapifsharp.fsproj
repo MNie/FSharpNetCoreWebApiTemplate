@@ -11,9 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="FSharp.Core" Version="4.5.*" />
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1.1"/>
-    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="2.1.1" />
+    <PackageReference Include="FSharp.Core" Version="4.6.*" />
+    <PackageReference Include="Microsoft.AspNetCore.All"/>
+    <PackageReference Include="Microsoft.DotNet.Watcher.Tools" version="2.0.2"/>
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="2.2.*" />
   </ItemGroup>
 
 </Project>
