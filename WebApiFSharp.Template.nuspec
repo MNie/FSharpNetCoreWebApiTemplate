@@ -14,11 +14,5 @@
     <packageTypes>
       <packageType name="Template"/>
     </packageTypes>
-	<dependencies>
-		<dependency id="Microsoft.AspNetCore.All" version="[2.2.0, 2.3.0)"/>
-		<dependency id="Microsoft.Extensions.Logging.Debug" version="[2.2.0, 2.3.0)"/>
-		<dependency id="Microsoft.DotNet.Watcher.Tools" version="[2.0.0, 2.1.0)"/>
-		<dependency id="FSharp.Core" version="[4.6.0, 4.7.0)"/>
-	</dependencies>
   </metadata>
 </package>
