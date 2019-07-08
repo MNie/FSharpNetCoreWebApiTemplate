@@ -1,8 +1,9 @@
+dist: bionic
 language: csharp
-dist: trusty
-sudo: required
 mono: none
 dotnet: 2.2
+sudo: required
+
 before_install:
   - chmod +x build.sh
 script:
